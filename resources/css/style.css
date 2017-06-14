@@ -1,0 +1,41 @@
+html{
+  text-align: center;
+  font-family: Helvetica;
+}
+#header, #middle{
+  background-image: url("/Users/michaelfernandopulle/Documents/PROJECTS/broadway/resources/images/the-flatiron-building.png")
+}
+#header h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+#header p{
+  font-size: 18px;
+}
+#header a{
+  color: white;
+}
+#process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+#middle h1{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#footer{
+  font-size: 11px;
+  background-color: dimgray;
+}
+#footer a{
+  color: white;
+}
